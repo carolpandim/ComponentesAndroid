@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "261050501655",
+    "firebase_url": "https://componentesaplicacao-443ff.firebaseio.com",
+    "project_id": "componentesaplicacao-443ff",
+    "storage_bucket": "componentesaplicacao-443ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261050501655:android:1368e7b88264e9d0",
+        "android_client_info": {
+          "package_name": "br.com.carolpandim.componentesandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261050501655-qj3tigqd2vbgj4erlb73s5o3gpn9hdg1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.carolpandim.componentesandroid",
+            "certificate_hash": "beb224284730e1ec2ea6857c4e52af0c0438cd6c"
+          }
+        },
+        {
+          "client_id": "261050501655-bkbksako4cf7s3saopnganifnl3rjtn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfVJQJM01qxe-9MIzmtxQv1QItDe8SLrY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261050501655-bkbksako4cf7s3saopnganifnl3rjtn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
